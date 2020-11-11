@@ -116,7 +116,7 @@ end
 Run the test again and we should be passing the first of our two tests. Use the
 test output and the procedure we just followed to get the second test passing.
 
-#### The `#introduction_with_language` Method
+#### The ` Method #introduction_with_language`
 
 Define a method, `#introduction_with_language` that takes in two arguments,
 `name` and `language` and outputs the phrase: `"Hi, my name is #{name} and I am
